@@ -107,6 +107,12 @@ body {
 
 
 }
+
+p {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
 .content {
 
     
@@ -120,8 +126,9 @@ body {
     background: #fff;
     min-height: 400px;
     border: 2px solid black;
-    padding: 20px;
+    padding:0px;
     padding-top: 10px;
+
     letter-spacing: 1px;
    
 
